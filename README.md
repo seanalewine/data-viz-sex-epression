@@ -28,3 +28,5 @@ Code examples exist at these websites:
 ![Bar Graph Example](https://github.com/seanalewine/data-viz-sex-epression/blob/main/images/Bar%20Graph.png?raw=true)
 #### Violin+boxplot+dotplot.R
 ![Violin Plot Example](https://github.com/seanalewine/data-viz-sex-epression/blob/main/images/Violin%20Plot.png?raw=true)
+#### Negcontrol.R
+![Negative Control Example](https://github.com/seanalewine/data-viz-sex-epression/blob/main/images/negcontrol.png?raw=true)
